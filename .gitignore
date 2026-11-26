@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Proje
+data/
+!data/.gitkeep
+*.xlsx
+*.parquet
+*.csv
+*.csv.gz
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
